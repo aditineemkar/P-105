@@ -1,6 +1,6 @@
 import math
 import csv
-with open('data.csv', newline='') as f:
+with open('Projects/p105 main/data.csv', newline='') as f:
     reader = csv.reader(f)
     file_data = list(reader)
 
